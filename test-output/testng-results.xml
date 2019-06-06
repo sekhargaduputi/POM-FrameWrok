@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="139214" started-at="2019-06-06T16:47:54Z" finished-at="2019-06-06T16:50:13Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="139214" started-at="2019-06-06T16:47:54Z" finished-at="2019-06-06T16:50:13Z">
+      <class name="com.qa.freecrm.TestCases.DealTest">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.qa.freecrm.TestCases.DealTest@1e88b3c]" name="setup" is-config="true" duration-ms="25769" started-at="2019-06-06T16:47:54Z" finished-at="2019-06-06T16:48:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="AfterLoginTitle()[pri:1, instance:com.qa.freecrm.TestCases.DealTest@1e88b3c]" name="AfterLoginTitle" duration-ms="68" started-at="2019-06-06T16:48:20Z" finished-at="2019-06-06T16:48:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterLoginTitle -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.qa.freecrm.TestCases.DealTest@1e88b3c]" name="teardown" is-config="true" duration-ms="899" started-at="2019-06-06T16:48:20Z" finished-at="2019-06-06T16:48:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.qa.freecrm.TestCases.DealTest@1e88b3c]" name="setup" is-config="true" duration-ms="21365" started-at="2019-06-06T16:48:21Z" finished-at="2019-06-06T16:48:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="MousetoDeal()[pri:2, instance:com.qa.freecrm.TestCases.DealTest@1e88b3c]" name="MousetoDeal" duration-ms="2356" started-at="2019-06-06T16:48:42Z" finished-at="2019-06-06T16:48:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- MousetoDeal -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.qa.freecrm.TestCases.DealTest@1e88b3c]" name="teardown" is-config="true" duration-ms="1046" started-at="2019-06-06T16:48:45Z" finished-at="2019-06-06T16:48:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.qa.freecrm.TestCases.DealTest@1e88b3c]" name="setup" is-config="true" duration-ms="21838" started-at="2019-06-06T16:48:46Z" finished-at="2019-06-06T16:49:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="ClickProductTest()[pri:3, instance:com.qa.freecrm.TestCases.DealTest@1e88b3c]" name="ClickProductTest" duration-ms="5735" started-at="2019-06-06T16:49:08Z" finished-at="2019-06-06T16:49:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ClickProductTest -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.qa.freecrm.TestCases.DealTest@1e88b3c]" name="teardown" is-config="true" duration-ms="904" started-at="2019-06-06T16:49:13Z" finished-at="2019-06-06T16:49:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.qa.freecrm.TestCases.DealTest@1e88b3c]" name="setup" is-config="true" duration-ms="21503" started-at="2019-06-06T16:49:14Z" finished-at="2019-06-06T16:49:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="EnternameTest()[pri:4, instance:com.qa.freecrm.TestCases.DealTest@1e88b3c]" name="EnternameTest" duration-ms="5323" started-at="2019-06-06T16:49:36Z" finished-at="2019-06-06T16:49:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- EnternameTest -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.qa.freecrm.TestCases.DealTest@1e88b3c]" name="teardown" is-config="true" duration-ms="903" started-at="2019-06-06T16:49:41Z" finished-at="2019-06-06T16:49:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.qa.freecrm.TestCases.DealTest@1e88b3c]" name="setup" is-config="true" duration-ms="21925" started-at="2019-06-06T16:49:42Z" finished-at="2019-06-06T16:50:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="SaveTest()[pri:5, instance:com.qa.freecrm.TestCases.DealTest@1e88b3c]" name="SaveTest" duration-ms="8581" started-at="2019-06-06T16:50:04Z" finished-at="2019-06-06T16:50:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SaveTest -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.qa.freecrm.TestCases.DealTest@1e88b3c]" name="teardown" is-config="true" duration-ms="874" started-at="2019-06-06T16:50:12Z" finished-at="2019-06-06T16:50:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.qa.freecrm.TestCases.DealTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
